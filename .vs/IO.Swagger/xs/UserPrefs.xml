@@ -1,0 +1,42 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.IO.Swagger.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IO.Swagger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/IO.Swagger.Test/Api/ConfigUtils.cs">
+    <Files>
+      <File FileName="src/IO.Swagger.Test/Api/ShowsApiTests.cs" Line="130" Column="40" />
+      <File FileName="src/IO.Swagger.Test/Api/UserApiTests.cs" />
+      <File FileName="src/IO.Swagger/Client/ApiClient.cs" />
+      <File FileName="src/IO.Swagger/Api/UserApi.cs" />
+      <File FileName="src/IO.Swagger/Model/ShowList.cs" />
+      <File FileName="src/IO.Swagger.Test/Api/EmptyClass.cs" />
+      <File FileName="src/IO.Swagger.Test/Api/ConfigUtils.cs" Line="3" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IO.Swagger" expanded="True">
+            <Node name="IO.Swagger.Test" expanded="True">
+              <Node name="Api" expanded="True">
+                <Node name="ConfigUtils.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="IO.Swagger" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bing.he/Desktop/codegen_sample/csharp_client/src/IO.Swagger/Api/ShowsApi.cs" relfile="src/IO.Swagger/Api/ShowsApi.cs" line="1152" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
